@@ -1,0 +1,35 @@
+ = -> value assign
+ += -> add and assign
+ -= -> sub and assign
+ *= -> multiplication and assign
+ /= -> Divide and assign
+ %= -> modulus and assign 
+
+ Relational Operators 
+
+== -> Equals To 
+!= -> Not Equal T0
+
+> -> greater Than
+>= -> greaterThanOrEqualTo 
+< - lessThan
+<= -> lessThanEqualTo
+
+Logical Operators
+
+&& -> and
+|| -> Logical OR
+! -> Logical NOT
+
+Increment and Decrement 
+
+++ -> symbol 
+
+a++ 
+
+
+
+a = 5
+b = 2
+
+a = 2 or greaterThanTw
